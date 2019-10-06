@@ -1,5 +1,5 @@
 {
-	"version" : "2.2.4-MD2-RC2",
+	"version" : "2.2.4-MD2-RC3",
 	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
-	"changes" : "2.2.4-MD2-RC2\nRC2版本，全方面优化\n\n1. 优化界面及其流畅度\n2. 新增侧滑和底部导航模式切换\n3. 部分代码参考优化自EdXposed manager\n4. 更新主页Zip获取源\n5. 更新下载模块获取源\n6. 添加首页数据保存设置项(可能还有其它我未发现的Bug)\n7. 修复即使模块列表(未测试)\n8. 主页菜单新增2种即使优化模式\n9. 修复底部导航栏不着色(现在默认着色，并且去除该设置项)\n10. 修复下载模块以及安装模块所导致的崩溃\n11. 更换软件图标(新图标由酷安@微软官 所设计\n12. 优化配色方案\n13. 优化主页TabLayout的指示器样式\n14. 优化布局合理程度\n15. 新增彩蛋(就在主页那儿，自己找(。・ω・。))"
+	"changes" : "2.2.4-MD2-RC3\nRC3版本\n\nChange logs :\n1. 修复底栏导致的闪退问题\n2. 优化下载界面刷新逻辑\n3. 修复安装模块后主页不更新状态的Bug\n4. 修复一堆UI细节问题\n5. 新增框架，模块，美化版本更新的获取源的设置，以及连通性的检查"
 }
