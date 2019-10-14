@@ -1,5 +1,5 @@
 {
-	"version" : "2.2.4-MD2-RC3",
+	"version" : "Materialize-RC5",
 	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
-	"changes" : "2.2.4-MD2-RC3\nRC3版本\n\nChange logs :\n1. 修复底栏导致的闪退问题\n2. 优化下载界面刷新逻辑\n3. 修复安装模块后主页不更新状态的Bug\n4. 修复一堆UI细节问题\n5. 新增框架，模块，美化版本更新的获取源的设置，以及连通性的检查"
+	"changes" : "Materialize-RC5\nRC5版本\n\nChange logs :\n1. 更改为更加可口的版本名(雾\n2. 新增夜间模式的切换\n3. 优化即时模块的生效性（无法生效请检查你是否将设备的SeLinux给关闭）"
 }
