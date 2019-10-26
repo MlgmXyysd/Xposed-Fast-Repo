@@ -1,6 +1,6 @@
-### Xposed Fast Repository
+### EdXposed Material
 
-##### Material Design 2 版本 EdXposed Installer
+##### Material Design 2 版本 EdXposed Installer (Manager)
 
 #### 最新版本
 ##### Materialize · RC6
