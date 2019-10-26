@@ -2,7 +2,7 @@
 	"finished" : 0,
 	"unfinished" : 34,
 	"plans" : [
-		{"plan" : "下载页面模块分类","progress" : 0.25, "status" : false, "date" : 0},
+		{"plan" : "下载页面模块分类","progress" : 0.25, "status" : true, "date" : 1572107205},
 		{"plan" : "已安装模块优先排序","progress" : 0, "status" : false, "date" : 0},
 		{"plan" : "优化列表UI布局","progress" : 0, "status" : false, "date" : 0},
 		{"plan" : "优化列表控件性能","progress" : 0, "status" : false, "date" : 0},
