@@ -1,5 +1,5 @@
 {
-	"version" : "Materialize · RC6",
-	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
-	"changes" : "Materialize · RC6\n\n鸽王他更新了!\n鸽王他更新了!!\n鸽王他更新了!!!\nRC6版本已更新\n\n1. 修改应用启动图\n2. 新增SELinux状态管理功能\n3. 人性化的即时模块设置提示\n4. 新增有趣儿的两个彩蛋\n5. 新增模块页面下拉刷新功能\n6. 优化将模块卸载后,模块列表不刷新问题\n7. Crepper?\n\n即时模块功能请配合SELinux状态管理使用\nOver."
+	"version" : "涅槃重生 · RC7",
+	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/apk/release/涅槃重生 · RC7.apk",
+	"changes" : "涅槃重生 · RC7\n\n1. 添加更新计划界面\n\t入口： 主页 -> 管理器版本 -> 查看更新计划\n2. 优化主页状态显示面板\n3. 修复模块页面无法响应刷新问题\n4. 修复下载完更新后闪退或不安装问题\n5. 部分下载逻辑已更换为RxHttp一条链下载（后续将替换所有的下载逻辑）\n\n官方群： 936541268\n以后可能会从每周更变为每日更（更新的版本为测试版，每周更新正式版，具体更不更看情况）"
 }
