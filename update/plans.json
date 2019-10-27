@@ -8,7 +8,7 @@
 		{"plan" : "优化SELinux状态管理","progress" : 0.15, "status" : false, "date" : 0},
 		{"plan" : "添加更多的关闭SELinux的方法（以便有手机无法挂载时灵活切换）","progress" : 0.35, "status" : false, "date" : 0},
 		{"plan" : "优化列表UI布局","progress" : 0.1, "status" : false, "date" : 0},
-		{"plan" : "加入主题功能","progress" : 0.1, "status" : false, "date" : 0},
+		{"plan" : "加入主题功能","progress" : 0, "status" : false, "date" : 0},
 		{"plan" : "下载页面模块分类","progress" : 0, "status" : false, "date" : 0},
 		{"plan" : "已安装模块优先排序","progress" : 0, "status" : false, "date" : 0},
 		{"plan" : "优化列表控件性能","progress" : 0.1, "status" : false, "date" : 0},
