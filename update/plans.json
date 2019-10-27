@@ -5,7 +5,7 @@
 		{"plan" : "添加更新计划界面","progress" : 1, "status" : true, "date" : 1572166302},
 		{"plan" : "修复模块页面刷新问题","progress" : 1, "status" : true, "date" : 1572166472},
 		{"plan" : "优化主页状态显示面板","progress" : 1, "status" : true, "date" : 1572166302},
-		{"plan" : "优化SELinux状态管理","progress" : 0.15, "status" : false, "date" : 0},
+		{"plan" : "优化SELinux状态管理","progress" : 0.1, "status" : false, "date" : 0},
 		{"plan" : "添加更多的关闭SELinux的方法（以便有手机无法挂载时灵活切换）","progress" : 0.35, "status" : false, "date" : 0},
 		{"plan" : "优化列表UI布局","progress" : 0.1, "status" : false, "date" : 0},
 		{"plan" : "加入主题功能","progress" : 0, "status" : false, "date" : 0},
