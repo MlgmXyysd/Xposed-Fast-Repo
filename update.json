@@ -1,0 +1,5 @@
+{
+	"version" : "Materialize · RC6",
+	"link" : "https://raw.githubusercontent.com/krinsofficial/Xposed-Fast-Repo/master/EdXposedInstaller-MD2.apk",
+	"changes" : "Materialize · RC6\n\n鸽王他更新了!\n鸽王他更新了!!\n鸽王他更新了!!!\nRC6版本已更新\n\n1. 修改应用启动图\n2. 新增SELinux状态管理功能\n3. 人性化的即时模块设置提示\n4. 新增有趣儿的两个彩蛋\n5. 新增模块页面下拉刷新功能\n6. 优化将模块卸载后,模块列表不刷新问题\n7. Crepper?\n\n即时模块功能请配合SELinux状态管理使用\nOver."
+}
