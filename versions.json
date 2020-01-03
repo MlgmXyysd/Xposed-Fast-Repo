@@ -1,12 +1,61 @@
 {
 	"yahfa" : [{
 		"name" : "EdXposed-Yahfa",
-		"version" : "v0.4.6.4",
-		"link" : "http://edxp.coxylic.top:85/yahfa/Riru-EdXposed-yahfa-v0.4.6.4_beta.zip"
-	}],
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Yahfa",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},
+		  {
+		"name" : "EdXposed-Yahfa",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Yahfa",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Yahfa",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Yahfa",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Yahfa",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},],
 	"sandhook" : [{
 		"name" : "EdXposed-Sandhook",
-		"version" : "v0.4.6.4",
-		"link" : "http://edxp.coxylic.top:85/sandhook/Riru-EdXposed-sandhook-v0.4.6.4_beta.zip"
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Sandhook",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Sandhook",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Sandhook",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Sandhook",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Sandhook",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
+	},{
+		"name" : "EdXposed-Sandhook",
+		"version" : "v0.0.0.0",
+		"link" : "dejavu"
 	}]
 }
